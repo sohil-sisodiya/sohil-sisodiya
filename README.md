@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js, backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sohil97/Web-Projects/tree/main/simple%20portfolio%201](https://github.com/sohil97/Web-Projects/tree/main/simple%20portfolio%201)
+- 👨‍💻 All of my projects are available at [(https://github.com/sohil97/Web-Projects)]([(https://github.com/sohil97/Web-Projects)])
 
 - 💬 Ask me about **react, web D**
 
