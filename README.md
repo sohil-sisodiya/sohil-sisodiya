@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">नमस्ते 🙏, I'm Sohil Sisodiya!</h1>
-<img align="right" width=300px height=300px alt="side_sticker" src="https://media1.giphy.com/media/6m50mO6l8smskQIYlk/giphy.gif?cid=ecf05e47zvh7gyzunizsyjtm0ccbaw1440vsell211tcy5fs&rid=giphy.gif&ct=s" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media2.giphy.com/media/z8mha2JXH8sgXE421u/giphy.gif?cid=ecf05e47bx3dazr8qhfexoqbt2wxvujopfjq7bwv5685iplu&rid=giphy.gif&ct=s" />
 <br>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
