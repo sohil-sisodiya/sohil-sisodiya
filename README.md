@@ -5,7 +5,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
-<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media4.giphy.com/media/V5bKTyV5kt3snXvVVj/giphy.gif?cid=ecf05e47s8jkph5z3ktg32uz0h8hr8o4dxf0maw40gdohroo&rid=giphy.gif&ct=s" width="30"> 
+<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media1.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e47s8jkph5z3ktg32uz0h8hr8o4dxf0maw40gdohroo&rid=giphy.gif&ct=s" width="30"> 
 </em></p>
 
 <br>
