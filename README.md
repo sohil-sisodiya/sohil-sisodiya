@@ -1,25 +1,91 @@
-<h1 align="center">Hi 👋, I'm Sohil Sisodiya!</h1>
-<h3 align="center">Front-End Developer</h3>
- <img align="right" width="200"src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+<br>
+<h1 align="center">नमस्ते 🙏🏻, I'm Sohil Sisodiya!</h1>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> -->
+<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohil97&label=Profile%20views&color=0e75b6&style=flat" alt="sohil97" /> </p>
+<br>
 
-- 🌱 I’m currently learning **node.js, backend development**
+<p align="left"> <a href="https://twitter.com/sohiltweets" target="blank"><img src="https://img.shields.io/twitter/follow/sohiltweets?logo=twitter&style=for-the-badge" alt="sohiltweets" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sohil97/Web-Projects](https://github.com/sohil97/Web-Projects)
 
-- 💬 Ask me about **react, web D**
-
-- 📫 How to reach me **sohilsisodiya12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sohiltweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohiltweets" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sohilo8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohilo8" height="30" width="40" /></a>
+<p align="center"> 
+    
+  Visitors count
+<br>
+<img src="https://profile-counter.glitch.me/sohil97/count.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohil97&show_icons=true&locale=en&layout=compact" alt="sohil97" /></p>
+<br>
 
+## 👨‍🎓 About Me :
+
+
+<!-- - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉. -->
+
+- 💻 I love to do Competitive Programming on daily basis 🤓. <br>
+- 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
+- 👯 I’m looking to collaborate on **OpenSource Projects**📜.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohilo8/), [Twitter](https://twitter.com/sohiltweets), [Gmail](sohilsisodiya12@gmail.com).
+- 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
+<br>
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://isocpp.org/" target="-blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+<!--     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> -->
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
+
+
+<br/>
+
+<!-- <p align="center">
+    <a href="https://github.com/sohil97/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sohil's streak" src="http://github-readme-streak-stats.herokuapp.com?user=sohil97&theme=jolly&hide_border=false"/>
+    </a>
+</p> -->
+
+## 📊 My Github Stats
+
+<br/>
+<a href="https://github.com/sohil97/github-readme-stats"><img alt="Sohil Sisodiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohil97&&theme=jolly&layout=compact" height="175px" /></a>
+<br>
+<br>
+<br>
+        
+<a href="https://github.com/sohil97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohil97&theme=jolly&layout=compact"  height ="175px"  />
+</a>
+        
+<br/>
+<br>
+  
+    
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=sohil97">
+</a>
+<a href="https://github.com/sohil97?tab=followers"><img src="https://img.shields.io/github/followers/sohil97?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
