@@ -1,11 +1,11 @@
 <br>
 <h1 align="center">Hi There👋, I'm Sohil Sisodiya!</h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="" /> -->
 <br>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
-<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media1.giphy.com/media/3o6ggdQGjS27paeoMM/giphy.gif?cid=ecf05e47ut4evpkvu73m4x2qe2h5dy5l8mwgup930wa3ip0t&rid=giphy.gif&ct=g" width="30"> 
 </em></p>
 
 <br>
