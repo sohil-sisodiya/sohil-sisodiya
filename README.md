@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Sohil Sisodiya</h1>
-<h3 align="center">Front-End Developer</h3>
+<h1 align="center">Hi 👋, I'm Sohil Sisodiya</h1>
+<h3 align="center">A frontend developer from Indore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohil97&label=Profile%20views&color=0e75b6&style=flat" alt="sohil97" /> </p>
 
 - 🌱 I’m currently learning **node.js, backend development**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/sohil97/Web-Projects)]([(https://github.com/sohil97/Web-Projects)])
+- 👨‍💻 All of my projects are available at [https://github.com/sohil97/Web-Projects](https://github.com/sohil97/Web-Projects)
 
 - 💬 Ask me about **react, web D**
 
