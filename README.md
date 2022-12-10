@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">नमस्ते 🙏🏻, I'm Sohil Sisodiya!</h1>
+<h1 align="center">Hi There👋, I'm Sohil Sisodiya!</h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
