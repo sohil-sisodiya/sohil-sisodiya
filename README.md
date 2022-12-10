@@ -1,11 +1,11 @@
 <br>
-<h1 align="center">Hi..👋, I'm Sohil Sisodiya!</h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/L3L20GgssOWOJl6iHZ/giphy.gif" />
+<h1 align="center">नमस्ते 🙏, I'm Sohil Sisodiya!</h1>
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media1.giphy.com/media/6m50mO6l8smskQIYlk/giphy.gif?cid=ecf05e47zvh7gyzunizsyjtm0ccbaw1440vsell211tcy5fs&rid=giphy.gif&ct=s" />
 <br>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
-<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media1.giphy.com/media/3o6ggdQGjS27paeoMM/giphy.gif?cid=ecf05e47ut4evpkvu73m4x2qe2h5dy5l8mwgup930wa3ip0t&rid=giphy.gif&ct=g" width="30"> 
+<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media4.giphy.com/media/V5bKTyV5kt3snXvVVj/giphy.gif?cid=ecf05e47s8jkph5z3ktg32uz0h8hr8o4dxf0maw40gdohroo&rid=giphy.gif&ct=s" width="30"> 
 </em></p>
 
 <br>
