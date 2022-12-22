@@ -31,7 +31,7 @@
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohilo8/), [Twitter](https://twitter.com/sohiltweets), [Gmail](sohilsisodiya12@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohil97/), [Twitter](https://twitter.com/sohiltweets), [Gmail](sohilsisodiya12@gmail.com).
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
 <br>
 
