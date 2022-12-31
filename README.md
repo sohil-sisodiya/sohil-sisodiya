@@ -17,7 +17,7 @@
     
   Visitors count
 <br>
-<img src="https://profile-counter.glitch.me/sohilo8/count.svg" />
+<img src="https://profile-counter.glitch.me/sohil97/count.svg" />
 </p>
 
 
@@ -31,7 +31,7 @@
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohilo8/), [Twitter](https://twitter.com/sohiltweets), [Gmail](sohilsisodiya12@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohil97/), [Twitter](https://twitter.com/sohiltweets), [Gmail](sohilsisodiya12@gmail.com).
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
 <br>
 
@@ -69,13 +69,13 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/sohilo8/github-readme-stats"><img alt="Sohil Sisodiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohilo8&&theme=jolly&layout=compact" height="175px" /></a>
+<a href="https://github.com/sohil97/github-readme-stats"><img alt="Sohil Sisodiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohil97&&theme=jolly&layout=compact" height="175px" /></a>
 <br>
 <br>
 <br>
         
-<a href="https://github.com/sohilo8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohilo8&theme=jolly&layout=compact"  height ="175px"  />
+<a href="https://github.com/sohil97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohil97&theme=jolly&layout=compact"  height ="175px"  />
 </a>
         
 <br/>
@@ -84,8 +84,8 @@
     
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=sohilo8">
+<img src="https://komarev.com/ghpvc/?username=sohil97">
 </a>
-<a href="https://github.com/sohilo8?tab=followers"><img src="https://img.shields.io/github/followers/sohilo8?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sohil97?tab=followers"><img src="https://img.shields.io/github/followers/sohil97?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
