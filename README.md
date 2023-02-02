@@ -1,2 +1,2 @@
-### [Connect with me 💬](https://www.linkedin.com/in/sohil97/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sohil97.sohil97)
+### [Connect with me 💬](https://www.linkedin.com/in/sohil-sisodiya/) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sohil-sisodiya.sohil-sisodiya)
